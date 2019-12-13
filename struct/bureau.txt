@@ -1,0 +1,8 @@
+
+Name : manvi 
+Age : 34 
+Gender : male 
+Height : 5.600000 
+Weight : 50.900002 
+Qualification : fail 
+
