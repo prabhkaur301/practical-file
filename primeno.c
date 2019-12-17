@@ -2,7 +2,7 @@
 int main()
 {
 int n,factor=0;
-printf("enyter any number");
+printf("enter any number");
 scanf("%d",&n);
 for(int i=1;i<=n;i++)
 {
